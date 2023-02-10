@@ -1,5 +1,5 @@
 # cython_osc
-To run the cython in OSC first need to install cython.
+To run the cython in OSC first you need to install cython.
 Easiest way is to create a conda environment.
 
 First load conda module
