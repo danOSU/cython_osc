@@ -10,9 +10,10 @@ Create conda env
 
 Now invoke the conda environment
 
+> conda create --name cython_env
+
 > conda activate cython_env
 
-> module create --name cython_env
 
 Get cython and numpy
 
