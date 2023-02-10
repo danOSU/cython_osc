@@ -8,6 +8,10 @@ First load conda module
 
 Create conda env
 
+Now invoke the conda environment
+
+> conda activate cython_env
+
 > module create --name cython_env
 
 Get cython and numpy
@@ -16,9 +20,6 @@ Get cython and numpy
 
 > pip install numpy
 
-Now invoke the conda environment
-
-> conda activate cython_env
 
 Now compile the cython code to calculate sin of a five dimensional array.
 
