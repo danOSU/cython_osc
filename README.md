@@ -8,7 +8,7 @@ First load conda module
 
 Create conda env
 
-> module create -name cython_env
+> module create --name cython_env
 
 Get cython and numpy
 
