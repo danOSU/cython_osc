@@ -1,0 +1,27 @@
+in cwd
+/users/PAS0254/dananjaya/cython_parallel
+preparing libraries
+# conda environments:
+#
+cython_test           *  /users/PAS0254/dananjaya/.conda/envs/cython_test
+dan                      /users/PAS0254/dananjaya/.conda/envs/dan
+jstaw                    /users/PAS0254/dananjaya/.conda/envs/jstaw
+owe_conda                /users/PAS0254/dananjaya/.conda/envs/owe_conda
+parton_loss_owens        /users/PAS0254/dananjaya/.conda/envs/parton_loss_owens
+random_field             /users/PAS0254/dananjaya/.conda/envs/random_field
+snake                    /users/PAS0254/dananjaya/.conda/envs/snake
+test                     /users/PAS0254/dananjaya/.conda/envs/test
+base                     /usr/local/python/3.6-conda5.2
+
+tmp dir
+/tmp/slurmtmp.23292952
+shape of x is
+(2000, 20, 20, 20, 20)
+total time for cython
+0.3214302062988281
+total time for serial python
+184.7667841911316
+The speedup is
+574.827071539621
+Im done. Good bye
+All done. Goodbye!
