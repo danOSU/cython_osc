@@ -29,3 +29,4 @@ Change the credentials in submit script accordingly and run
 > sbatch submit
 
 This should give a slurm output file similar to what you find in the repo. 
+You should get a speedup of 500 times or more by using cython with parallelization
